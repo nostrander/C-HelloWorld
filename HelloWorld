@@ -1,0 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        { 
+            //Hello World! - Assignment 2
+            //From Natasha (New Line)
+            Console.WriteLine("Hello World!\nFrom Natasha");
+
+            //Pauses the Console window for screenshot
+            Console.ReadLine();
+        }
+    }
+}
